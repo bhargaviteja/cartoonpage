@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+}
+section p,img{
+    padding: 10px;
+}
+#tomjerry{
+    background-color: #FAB201;
+}
+#Shinchan{
+    background-color: #FB4F93;
+}
+#Pokemon{
+    background-color: #00C7DA;
+}
+
